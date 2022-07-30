@@ -1,6 +1,6 @@
 # Portfolio
 
-I'm currently building my Portfolio website using Tailwind CSS
+I'm currently building my Portfolio website using Tailwind CSS <br/>
 The portfolio should have:
 a homepage
 an about page
