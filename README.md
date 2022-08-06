@@ -1,5 +1,7 @@
 # Portfolio
 
+https://uzayn.github.io/Portfolio/
+
 I'm currently building my Portfolio website using Tailwind CSS <br/>
 The portfolio will have: <br/>   
 a homepage <br/>
